@@ -1,0 +1,13 @@
+﻿Variable,Code,Description 
+Lightning,1,Lightning present
+Lightning,0,No lightning present
+Wind,1,None
+Wind,2,Light
+Wind,3,Moderate
+Wind,4,Heavy
+Precipitation,1,None
+Precipitation,2,Light
+Precipitation,3,Moderate
+Precipitation,4,Heavy
+Period,1,Morning
+Period,2,Afternoon
